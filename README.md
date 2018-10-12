@@ -1,10 +1,8 @@
 # San Oqughu
-Tékistlerning ichidiki barliq sanlarni ularning oqulushigha aylandurup béridu. yeni tékist ichidiki barliq san-sipir oqulushi bilen ipadilinidu.
+Tékistlerning ichidiki barliq sanlarni ularning oqulushigha aylandurup béridu. yeni tékist ichidiki barliq san-sifirlar oqulushi bilen ipadilinidu.
 
 Buyruq qurida:
-
-python sanqoughu.py
-
+## python sanqoughu.py
 dep ijra qilsa:
 
 119276-yili 12 -ayning 25 - küni. 12 yashliq kichik bala, 105-qewettiki öyide kitab oqup olturatti.
